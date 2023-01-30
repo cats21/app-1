@@ -1,0 +1,8 @@
+echo "# app-1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cats21/app-1.git
+git push -u origin main 
+get a hold on code 7  1982 /17 aq 11 gm a5 8 16  jfs aq
